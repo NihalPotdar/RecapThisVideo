@@ -11,7 +11,7 @@ We built this project using HTML, CSS and vanilla JS for the front-end with a py
 In the future, we hope to add a feature using Pandas where we can parse different sources for videos just from a key-word and rather than having the users enter an URL, they can enter a keyword and we can summarize the data from all these sources. 
 
 # Try it Out
-
+[CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 You can try out our project on here: http://www.recapthisvid.tech/. To compile our backend and experiment with our API, clone our project and follow the following steps:
 
 ## Installation Instructions
@@ -28,5 +28,7 @@ You can try out our project on here: http://www.recapthisvid.tech/. To compile o
 ## Build and Run
 ```
 1) Type 'python AsyncSetUp.py' by navigating to the backend of our project in your command prompt to run our API 
-2) Type 'python 
+2) To only run the Video Transcriptions and Natural Language Processing scripts, type 'python VideoIntelligence.py' 
+3) To only run the SendGrid script for sending out the results, type 'python SendResults.py' 
 ```
+To find our serverless implementation, you can navigate to the following forked repository: https://github.com/StanfordLin/RecapThisVid.
