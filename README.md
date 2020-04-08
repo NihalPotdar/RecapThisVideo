@@ -1,4 +1,4 @@
-# VideoSummary
+# Recap This Video For Me
 
 In response to the Corona Virus Outbreak, we realized that there is a lot of information available on the internet and many of which are available in a video format but little to no ways of comiling all this information without having to watch all these videos which can both be time-consuming and mentally-straining. To solve this problem, we came up with 'Recap This Vid For Me' which takes a YouTube video link and utilizes Google's video intelligence API to transcribe the video into text and implements a unsupervised natural language processing algorithm, text rank, to summarize the key elements in the video by recognizing the most common sentences/ words.
 
@@ -22,7 +22,7 @@ You can try out our project on here: http://www.recapthisvid.tech/. To compile o
 4) Navigate into our project by using cd RecapThisVideo
 5) Type 'cd Backend'
 6) Type 'pip install -r requirements.txt'
-7) Create a https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-gcloud and set it in your environment 
+7) Create a https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-gcloud and set it as an environment key
 ```
 
 ## Build and Run
