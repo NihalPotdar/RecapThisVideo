@@ -17,12 +17,12 @@ You can try out our project on here: http://www.recapthisvid.tech/. To compile o
 ## Installation Instructions
 ```
 1) Open your command prompt
-2) Install python by following the instructions on [here](https://wiki.python.org/moin/BeginnersGuide/Download) and install a virtual environment
+2) Install python by following the instructions on https://wiki.python.org/moin/BeginnersGuide/Download and install a virtual environment
 3) Open your command prompt 
 4) Navigate into our project by using cd RecapThisVideo
 5) Type 'cd Backend'
 6) Type 'pip install -r requirements.txt'
-7) Create a [google cloud service key](https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-gcloud) and set it in your environment 
+7) Create a https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-gcloud and set it in your environment 
 ```
 
 ## Build and Run
