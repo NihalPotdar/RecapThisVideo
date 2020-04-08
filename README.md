@@ -9,3 +9,24 @@ We built this project using HTML, CSS and vanilla JS for the front-end with a py
 # What's next?
 
 In the future, we hope to add a feature using Pandas where we can parse different sources for videos just from a key-word and rather than having the users enter an URL, they can enter a keyword and we can summarize the data from all these sources. 
+
+# Try it Out
+
+You can try out our project on here: http://www.recapthisvid.tech/. To compile our backend and experiment with our API, clone our project and follow the following steps:
+
+## Installation Instructions
+```
+1) Open your command prompt
+2) Install python by following the instructions on [here](https://wiki.python.org/moin/BeginnersGuide/Download) and install a virtual environment
+3) Open your command prompt 
+4) Navigate into our project by using cd RecapThisVideo
+5) Type 'cd Backend'
+6) Type 'pip install -r requirements.txt'
+7) Create a [google cloud service key](https://cloud.google.com/iam/docs/creating-managing-service-account-keys#iam-service-account-keys-create-gcloud) and set it in your environment 
+```
+
+## Build and Run
+```
+1) Type 'python AsyncSetUp.py' by navigating to the backend of our project in your command prompt to run our API 
+2) Type 'python 
+```
