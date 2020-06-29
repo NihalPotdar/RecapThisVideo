@@ -11,7 +11,6 @@ We built this project using HTML, CSS and vanilla JS for the front-end with a py
 In the future, we hope to add a feature using Pandas where we can parse different sources for videos just from a key-word and rather than having the users enter an URL, they can enter a keyword and we can summarize the data from all these sources. 
 
 # Try it Out
-[CONTRIBUTING.md]
 You can try out our project on here: http://www.recapthisvid.tech/. To compile our backend and experiment with our API, clone our project and follow the following steps:
 
 ## Installation Instructions
