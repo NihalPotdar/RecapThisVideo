@@ -4,8 +4,8 @@ In response to the Corona Virus Outbreak, we realized that there is a lot of inf
 
 # How we built it?
 
-Front-end: HTML, CSS, Vanilla JS
-Back-end: Python, Google Cloud Video Intelligence API, cloud functions, pub/sub and cloud storage
+Front-end: HTML, CSS, Vanilla JS\
+Back-end: Python, Google Cloud Video Intelligence API, cloud functions, pub/sub and cloud storage\
 Natural Language Processing (NLP): NLTK, numpy, Networkx 
 
 ## Installation Instructions
