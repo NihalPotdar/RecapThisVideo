@@ -9,3 +9,4 @@ google-cloud-videointelligence
 google-cloud-pubsub
 flask
 pytube3
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
